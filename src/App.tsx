@@ -66,6 +66,8 @@ export const App = () => {
             {id: v1(), title: 'HTML&CSS2', isDone: true},
             {id: v1(), title: 'JS2', isDone: true},
             {id: v1(), title: 'ReactJS2', isDone: false},
+            {id: v1(), title: 'Redux', isDone: false},
+            {id: v1(), title: 'Vue', isDone: false},
         ],
     })
 
